@@ -1,0 +1,8 @@
+{
+  "name": "FirstDemo",
+  "version": "1.0.0",
+  "description": "simple nodejs demo",
+  "dependencies": {
+    "ormidable": "^1.2.2"
+  }
+}
